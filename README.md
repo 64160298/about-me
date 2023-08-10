@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Yukonthorn</h1>
 <h3 align="center">A developer from Thailand</h3>
 
+- 🔭 I’m currently working on **Support Trouble Ticket System**
+
+- 🌱 I’m currently learning **MEVN stack**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
